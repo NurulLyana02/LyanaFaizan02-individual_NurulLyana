@@ -1,0 +1,75 @@
+<DOCTYPE html>
+<html>
+<head> 
+		<title> My Website Blog</title> 
+		
+<style>
+body {background-image: url('yana1.jpg');}
+
+	 
+ul {list-style-type: none;
+	margin:0; 
+	padding: 0;
+	overflow: hidden;
+	background-color: #000000;} 
+
+li {float:left;}
+
+li a {display: block;
+	  color: white;
+	  text-align: center; 
+	  padding: 14px 16px; 
+	  text-decoration: none;
+	  font-family: cursive;}
+	  
+li a: hover: not (.active) 
+{background - color: 111#;] 
+.active [background-color: #000000;}  
+
+</style>
+
+<style> 
+	html {background: url(images/yana.1.png) no-repeat center fixed;
+		  background-size: cover;}	
+</style>
+
+<ul>
+	<li><a class= "active" href= "index.html">HOME</a></li> 
+	<li><a href= "Biodata.html">BIODATA</a></li>
+	<li><a href= "Experience.html">EXPERIENCE</a></li>
+	<li><a href= "Education.html">EDUCATION</a></li>
+	<li><a href= "Family.html">FAMILY</a></li>
+	<li><a href= "Gallery.html"> GALLERY</a></li>
+	<li><a href= "Contact.html">CONTACT</a></li>
+</ul>
+
+</head> 
+
+<body>
+
+	<br>
+		<b><center><p style="font-family:courier; font-size: 35px"> PRIMARY SCHOOL </p></center></b>
+			<center>
+		<img src="images/yana46.jpg" width="300" height="333">
+	<br>
+		<p>SEKOLAH KEBANGSAAN ALOR MENGKUDU</p>
+			</center>
+
+		<b><center><p style="font-family:courier; font-size: 35px"> SECONDARY SCHOOL </p></center></b>
+			<center>
+		<img src="images/yana47.jpg" width="300" height="333">
+	<br><br>
+		<center>SEKOLAH MENENGAH KEBANGSAAN TAJAR</a></p>
+			</center>
+
+		<b><center><p style="font-family:courier; font-size: 35px"> UNIVERSITY </p></center></b>
+			<center>
+		<img src="images/yana55.jpg" width="500" height="333">
+	<br><br>
+		<center>UNIVERSITI TEKNOLOGI MARA. KEDAH</a></p>
+			</center>
+
+	
+			
+</body>
+</html>

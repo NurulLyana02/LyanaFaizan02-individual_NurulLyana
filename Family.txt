@@ -1,0 +1,90 @@
+<DOCTYPE html>
+<html>
+<head> 
+		<title> My Website Blog</title> 
+		
+<style>
+body {background-image: url('yana1.jpg');}
+
+	 
+ul {list-style-type: none;
+	margin:0; 
+	padding: 0;
+	overflow: hidden;
+	background-color: #000000;} 
+
+li {float:left;}
+
+li a {display: block;
+	  color: white;
+	  text-align: center; 
+	  padding: 14px 16px; 
+	  text-decoration: none;
+	  font-family: cursive;}
+	  
+li a: hover: not (.active) 
+{background - color: 111#;] 
+.active [background-color: #000000;}  
+
+</style>
+
+<style> 
+	html {background: url(images/yana.1.png) no-repeat center fixed;
+		  background-size: cover;}	
+</style>
+
+<ul>
+	<li><a class= "active" href= "index.html">HOME</a></li> 
+	<li><a href= "Biodata.html">BIODATA</a></li>
+	<li><a href= "Experience.html">EXPERIENCE</a></li>
+	<li><a href= "Education.html">EDUCATION</a></li>
+	<li><a href= "Family.html">FAMILY</a></li>
+	<li><a href= "Gallery.html"> GALLERY</a></li>
+	<li><a href= "Contact.html">CONTACT</a></li>
+</ul>
+
+</head> 
+
+<body> 
+
+<style> 
+	h1 {text-align: center;
+		color: black;
+		font-size: 40px;
+		font-family: courier;
+		}
+</style>
+	
+	<h1>YANA'S FAMILY &#128150; </h1>
+		<center> <image src="images/yana8.jpg" width= 250px; height= 180px </center>
+
+<p style="color:#DB7093; font-size: 30px; font-family: Courier"><b> - MY PARENTS - </b></p>
+		<img src="images/yana10.jpg" width="250" height="333">
+		<img src="images/yana11.jpg" width="250" height="333">
+
+<p style="color:purple; font-size: 30px; font-family: Courier"><b> - MY YOUNGER BROTHER - </b></p>
+		<img src="images/yana12.jpg" width="250" height="333">
+		<img src="images/yana13.jpg" width="250" height="333">
+
+<p style="color:#DB7093; font-size: 30px; font-family: Courier"><b> - MY YOUNGER SISTER - </b></p>
+		<img src="images/yana14.jpg" width="250" height="333">
+		<img src="images/yana15.jpg" width="250" height="333">
+
+<p style="color:purple; font-size: 30px; font-family: Courier"><b> -MY GRANDFATHER AND AUNT - </b></p>
+		<img src="images/yana16.jpg" width="250" height="333">
+		<img src="images/yana17.jpg" width="250" height="333">
+
+<p style="color:#DB7093; font-size: 30px; font-family: Courier"><b> -OTHER FAMILY PICTURES - </b></p>
+		<img src="images/yana18.jpg" width="250" height="333">
+		<img src="images/yana19.jpg" width="250" height="333">
+		<img src="images/yana20.jpg" width="250" height="333">
+		<img src="images/yana22.jpg" width="250" height="333">
+<br>
+<br>
+		<img src="images/yana21.jpg" width="550" height="400">
+<br>
+<br>
+		<img src="images/yana23.jpg" width="550" height="400">
+
+</body>
+</html>

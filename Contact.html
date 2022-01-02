@@ -1,0 +1,152 @@
+<DOCTYPE html>
+<html>
+<head> 
+		<title> My Website Blog</title> 
+		
+<style>
+body {background-image: url('yana1.jpg');}
+
+	 
+ul {list-style-type: none;
+	margin:0; 
+	padding: 0;
+	overflow: hidden;
+	background-color: #000000;} 
+
+li {float:left;}
+
+li a {display: block;
+	  color: white;
+	  text-align: center; 
+	  padding: 14px 16px; 
+	  text-decoration: none;
+	  font-family: cursive;}
+	  
+li a: hover: not (.active) 
+{background - color: 111#;] 
+.active [background-color: #000000;}  
+
+</style>
+
+<style> 
+	html {background: url(images/yana.1.png) no-repeat center fixed;
+		  background-size: cover;}	
+</style>
+
+<ul>
+	<li><a class= "active" href= "index.html">HOME</a></li> 
+	<li><a href= "Biodata.html">BIODATA</a></li>
+	<li><a href= "Experience.html">EXPERIENCE</a></li>
+	<li><a href= "Education.html">EDUCATION</a></li>
+	<li><a href= "Family.html">FAMILY</a></li>
+	<li><a href= "Gallery.html"> GALLERY</a></li>
+	<li><a href= "Contact.html">CONTACT</a></li>
+</ul>
+
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {
+  font-family: cursive;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+/* Style inputs */
+input[type=text], select, textarea {
+  width: 100%;
+  padding: 12px;
+  border: 2px solid #ccc;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+}
+
+input[type=submit] {
+  background-color: #6495ED;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  cursor: pointer;
+  font-family: cursive;
+  }
+
+input[type=submit]:hover {
+  background-color: #45a049;
+}
+
+/* Style the container/contact section */
+.container {
+  border-radius: 5px;
+  background-color: #FFF8DC;
+  padding: 20px;
+}
+
+/* Create two columns that float next to eachother */
+.column {
+  float: left;
+  width: 50%;
+  margin-top: 6px;
+  padding: 20px;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Responsive layout - when the screen is less than 600px wide, make the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+  .column, input[type=submit] {
+    width: 100%;
+    margin-top: 0;
+  }
+
+</style>
+</head>
+
+<body>
+
+<div class="container">
+  <div style="text-align:center; font-size: 20px; font-family:cursive;">
+    <h2>CONTACT ME</h2>
+    <p> IF YOU HAVE ANY QUESTIONS, JUST HITS ME IN THIS CONTACT SECTION </p>
+  </div>
+  <div class="row">
+    <div class="column">
+      <img src="images/yana44.png" style="width:100%">
+    </div>
+    <div class="column">
+      <form action="/action_page.php">
+        <label for="fname">FIRST NAME</label>
+        <input type="text" id="fname" name="firstname" placeholder="YOUR NAME..">
+        <label for="lname">LAST NAME</label>
+        <input type="text" id="lname" name="lastname" placeholder="YOUR LAST NAME..">
+        <label for="country">COUNTRY</label>
+        <select id="country" name="country">
+		  <option value="malaysia">MALAYSIA</option>
+		  <option value="thailand">THAILAND</option>
+		  <option value="singapore">SINGAPORE</option>
+		  <option value="brunei">BRUNEI</option>
+          <option value="australia">AUSTRALIA</option>
+          <option value="canada">CANADA</option>
+          <option value="usa">USA</option>
+        </select>
+        <label for="subject">SUBJECT</label>
+        <textarea id="subject" name="subject" placeholder="WRITE SOMETHING ..." style="height:170px"></textarea>
+        <input type="Submit" value="SUBMIT">
+      </form>
+    </div>
+  </div>
+</div>
+
+
+
+
+</body>
+</html>
+

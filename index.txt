@@ -1,0 +1,93 @@
+<DOCTYPE html>
+<html>
+<head> 
+		<title> My Website Blog</title> 
+		
+<style>
+body {background-image: url('yana1.jpg');}
+
+	 
+ul {list-style-type: none;
+	margin:0; 
+	padding: 0;
+	overflow: hidden;
+	background-color: #000000;} 
+
+li {float:left;}
+
+li a {display: block;
+	  color: white;
+	  text-align: center; 
+	  padding: 14px 16px; 
+	  text-decoration: none;
+	  font-family: cursive;}
+	  
+li a: hover: not (.active) 
+{background - color: 111#;] 
+.active [background-color: #000000;}  
+</style>
+<ul>
+	<li><a class= "active" href= "index.html">HOME</a></li> 
+	<li><a href= "Biodata.html">BIODATA</a></li>
+	<li><a href= "Experience.html">EXPERIENCE</a></li>
+	<li><a href= "Education.html">EDUCATION</a></li>
+	<li><a href= "Family.html">FAMILY</a></li>
+	<li><a href= "Gallery.html"> GALLERY</a></li>
+	<li><a href= "Contact.html">CONTACT</a></li>
+</ul>
+</head> 
+
+<style> 
+	html {background: url(images/yana.1.png) no-repeat center fixed;
+		  background-size: cover;}	
+
+</style>
+		
+<body> 
+<br>
+	<center> <image src="images/yana9.gif" </center>
+
+<h1>
+	<center> 
+	<p style="font-family:cursive; font-size:110%; color: black; ">		 
+			WELCOME TO MY WEBSITE BLOG!</p>
+	<p style="font-family:cursive; font-size:110%; color: purple;">
+			"MY BLOG, MY LIFE"
+</h1>	
+</p>
+</center>
+</body>
+
+<body>
+<center>
+			<p style="font-family:cursive; color: black;">
+		"Don’t let others box you into their idea of what they think you should be. 
+		A confined identity is a miserable way to exist.
+<br>
+		You and live free. Trust that in living true to yourself, you will attract people that support and love you, 
+		just as you are."
+<br>	- Jaeda deWalt 
+<br>
+<br>
+		I'm glad to be here. 
+<br>
+		In this blog, I also combine the passion for aesthetic photography with the love of cooking, 
+		fashion and the most beautiful things in life. 
+<br>
+		Inspired by art, design, cuisine, fashion and photography, it is this interest 
+		that gives my work a unique and differentiated view and feeling.
+<br>
+		Food styling and minimalist fashion are some of the content you can find here. 
+		I also have various hobbies, and I believe that there are many
+<br>
+		individuals in the same situation as me who may benefit from my day-to-day experiences.
+<br>
+		So, I'm thinking of starting a blog to remember my days
+		but I also think it might be enjoyable if I make the most of it.
+
+</p>
+
+</body>
+</html>
+
+
